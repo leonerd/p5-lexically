@@ -1,12 +1,15 @@
 package lexically;
 use strict;
 use warnings;
-# ABSTRACT: lexically import functions from non-lexical exporters
 
 our $VERSION = '0.02';
 
 use Exporter::Lexical 0.02 ();
 use Module::Runtime 'require_module';
+
+=head1 NAME
+
+C<lexically> - lexically import functions from non-lexical exporters
 
 =head1 SYNOPSIS
 
