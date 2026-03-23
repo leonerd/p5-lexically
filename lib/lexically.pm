@@ -2,7 +2,7 @@ package lexically;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Exporter::Lexical 0.02 ();
 use Module::Runtime 'require_module';
