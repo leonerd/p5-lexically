@@ -55,7 +55,7 @@ sub import {
 
 No known bugs.
 
-Please report any bugs to GitHub Issues at L<https://github.com/doy/lexically/issues>.
+Please report any bugs to GitHub Issues at L<https://github.com/leonerd/p5-lexically/issues>.
 
 =head1 SEE ALSO
 
@@ -77,7 +77,7 @@ L<https://metacpan.org/release/lexically>
 
 =item * Github
 
-L<https://github.com/doy/lexically>
+L<https://github.com/leonerd/p5-lexically>
 
 =item * RT: CPAN's request tracker
 
@@ -88,6 +88,12 @@ L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=lexically>
 L<http://cpanratings.perl.org/d/lexically>
 
 =back
+
+=head1 AUTHOR
+
+Originally written by Jesse Luehrs <doy@tozt.net>
+
+Currently maintained by Paul Evans <leonerd@leonerd.org.uk>
 
 =cut
 
