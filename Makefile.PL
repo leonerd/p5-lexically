@@ -30,7 +30,7 @@ my %WriteMakefileArgs = (
     "File::Temp" => 0,
     "Test::More" => "0.88"
   },
-  "VERSION" => "0.01",
+  "VERSION_FROM" => "lib/lexically.pm",
   "test" => {
     "TESTS" => "t/*.t"
   }
